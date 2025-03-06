@@ -22,7 +22,5 @@ Hello! This is my personal website where I document and share my development pro
 I'm a developer working on various projects above[↑](#current-projectsinterests) I enjoy experimenting with new technologies and exploring innovative ideas.
 
 
-Edit
-
 
 ![[Contact]]
