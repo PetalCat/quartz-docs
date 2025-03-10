@@ -1,0 +1,5 @@
+- **Purpose**: Active initiatives with a defined goal or deliverable.
+- **Examples**:
+  - "Minecraft Mod"
+  - "Meshtastic Node"
+- **Use Case**: Organize project-specific files, tasks, and notes in folders or subfolders. Archive completed projects in the Archive.

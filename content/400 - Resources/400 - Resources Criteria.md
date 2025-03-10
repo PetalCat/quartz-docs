@@ -1,0 +1,4 @@
+- **Purpose**: Reference material and knowledge that can be used across projects or focuses.
+- **Examples**:
+  - Notes
+- **Use Case**: Organize files by topic or type for easy retrieval. Resources should not be actively modified.

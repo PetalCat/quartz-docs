@@ -1,0 +1,7 @@
+- **Purpose**: Long-term areas of responsibility or priorities that don’t have a specific end date.
+	- #### (Like Projects)
+- **Examples**:
+  - Academic focus (e.g., coursework)
+  - Work (e.g., ongoing maintenance logs or guides)
+  - Personal development (e.g., learning skills)
+- **Use Case**: Store materials and notes related to ongoing work or recurring tasks.

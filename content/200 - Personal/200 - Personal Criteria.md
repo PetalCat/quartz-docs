@@ -1,0 +1,7 @@
+- **Purpose**: Files and notes related to personal interests, hobbies, or private matters.
+- **Examples**:
+  - People - Private contact files
+  - Journals, reflections, or personal goals
+  - Hobby-related files
+  - Personal finance tracking or health records
+- **Use Case**: Keep this section for deeply personal items that don’t fit into other categories but are important for your individual life.

@@ -2,7 +2,10 @@
 title: Welcome to Petalcat.dev
 ---
 
-Hello! This is my personal website where I document and share my development projects. Here you'll find details about my work, experiments, and things I’m learning along the way.
+***Hello!*** This is my personal website where I document and share my development projects. Here you'll find details about my work, experiments, and things I’m learning along the way.
+
+**See [[Site Structure]] for guidance on the structure.**
+Most of my notes are hidden for privacy reasons, but any [public projects](/100---Projects) I am working on will be here!
 
 ## Current Projects/Interests
 
@@ -16,6 +19,11 @@ Hello! This is my personal website where I document and share my development pro
   - [BlueBubbles](https://bluebubbles.app/)
   - [OpenBubbles](https://openbubbles.app/)
   - [iMessage Registration](https://guide.atbluebubbles.com/)
+
+## Groups/Organizations
+
+- [[PSDTools]]
+	- [Github](https://github.com/PSDTools)
 
 ## About Me
 

@@ -1,0 +1,6 @@
+- **Purpose**: Temporary holding area for unprocessed files, notes, or tasks.
+- **Examples**:
+  - Quick notes taken during meetings or on the go.
+  - Recently downloaded PDFs, images, or links.
+  - Draft emails or ideas for upcoming projects.
+- **Use Case**: Sort items here into the appropriate category once processed (e.g., move project-specific tasks to Projects or reference materials to Resources).

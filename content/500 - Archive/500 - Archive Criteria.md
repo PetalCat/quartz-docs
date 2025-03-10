@@ -1,0 +1,6 @@
+- **Purpose**: Storage for inactive or completed items.
+- **Examples**:
+  - "College Application Essays" after submission
+  - Completed coursework from "Honors Chemistry - Dornhoefer"
+  - Finished projects like "College Visit Video"
+- **Use Case**: Keep files here for record-keeping or potential future reference. Rarely accessed but safely stored.

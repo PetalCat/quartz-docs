@@ -1,0 +1,6 @@
+- **Purpose**: Store static system files, templates, and reusable assets.
+- **Examples**:
+  - Photos, logos, and graphics used in videos or presentations
+  - Templates
+  - Markdown templates for note-taking
+- **Use Case**: Organize into subfolders like "Photos", "Templates", and "Icons" for quick access in projects or focuses.
